@@ -15,3 +15,5 @@ sw.*
 sw.js
 
 /static/sw.js
+
+.idea
