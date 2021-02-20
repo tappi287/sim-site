@@ -1,6 +1,6 @@
 <template>
   <div class="xs-text-6 md-text-5">
-    <div v-if="posts[0]" :style="`margin-top:var(--nav-height);`" class="r browse full-height">
+    <div v-if="posts[0]" :style="`margin-top:var(--nav-height);`" class="r browse no-grid-gap">
       <div v-for="(p, i) in posts" :key="i" :style="`height:calc(100vh - var(--nav-height);`"
            class="xs-border xs-p2 full-item">
         <div v-if="p.thumbnail"
@@ -11,6 +11,7 @@
           <nuxt-link :to="p.path">
             <img :key="p.thumbnail" v-lazy="p.thumbnail" class="full-bg-image"/>
             <div v-if="!p.thumbnail" class="full-bg-color"></div>
+            <div v-if="p.thumbnail" class="img-overlay full-bg-image"></div>
           </nuxt-link>
         </div>
         <div v-else
@@ -53,6 +54,8 @@ img[lazy="loaded"] {
   transition-delay: 0.8s;
 }
 
+.no-grid-gap { grid-gap: 0; }
+
 .nobg-link {
   font-size: calc(1.4rem + 2vw);
 }
@@ -87,10 +90,16 @@ img[lazy="loaded"] {
   border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
-.item:hover .full-bg-image,
 .item:hover .full-bg-color {
   opacity: 0.8;
   transition: 0.4s all;
+}
+
+.item .img-overlay { opacity: 0.0; transition: 0.8s all; }
+.item:hover .img-overlay {
+  opacity: 1;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, rgba(60, 65, 250, 0.2) 100%);
+  transition: 0.8s all;
 }
 
 .item .full-bg-link {

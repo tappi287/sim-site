@@ -32,16 +32,11 @@
           </ul>
         </div>
       </div>
-      <div
-        class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
-        :class="signupAboutSize"
-      >
+      <div class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none" :class="signupAboutSize">
         <div class="item">
           <div class="footer__heading xs-mb2">Deploy</div>
 
-          <a
-            href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template"
-          >
+          <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template">
             <img
               style="height:29px;width:auto;"
               src="~/assets/deploy.svg"
