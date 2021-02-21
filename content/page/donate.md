@@ -4,8 +4,6 @@ date: Saturday, February 20th, 2021
 thumbnail: /images/uploads/changelog.jpg
 ---
 
-## Donate
-
 #### App development
 
 If the applications offered here were useful to you and you feel like

@@ -12,7 +12,7 @@ category: Tools
     <img src="https://github.com/tappi287/rf2_video_settings/raw/master/vue/src/assets/ani.webp" alt="Screenshot" width="560">
 </p>
 
-##### Preset import/export
+#### Preset import/export
 Presets will be saved to your MyDocuments dir and can be shared. Drop preset files onto
 the app window to import those presets.
     

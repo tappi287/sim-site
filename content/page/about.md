@@ -1,18 +1,20 @@
 ---
 title: About
-date: 2021-02-21T03:00:50-07:00
-thumbnail: /images/uploads/changelog.jpg
+date: Saturday, February 20th, 2021
 ---
 ### Hi I'm Tappi.
-This is the home of my freetime applications and observations around anything Sim. 
-I'm a simmer since TOCA Race driver launched on PS One. Equipped with a 
+This is the home for my free time applications and observations around anything Sim. 
+I'm a simmer since Codie's TOCA World Touring Cars launched on PS One. Equipped with a 
 Speedster steering wheel from a back-then unknown company called Fanatec
 and the ingenious Namco NeoCon.
-I'd drive whole tournaments with a friend in Co-Op mode in times where a split-screen was a
-standard feature.
+I'd drive whole tournaments with a friend in Co-Op mode in times when a split-screen was a
+standard feature of racing games.
 
-Later I produced some media and introductions of games like Blimey Games GTR-2, GT-Legends and
+Later I produced some media and introduction videos for games like Blimey Games GTR-2, GT-Legends and
 some predecessors of what would become Project CARS.
+
+Nowadays I'm producing content for automotive OEM's and are lazy enough to
+code instead of repeatedly work on the same boring tasks all over again.
 
 ### CC Attributions
 This site features artworks under CC Attribution license:

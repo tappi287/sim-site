@@ -7,12 +7,12 @@
   "altlayout": true,
   "menu": [
     {
-      "name": "rFactor 2 Settings Widget",
+      "name": "rF2 Widget GitHub",
       "position": "1",
       "link": "https://github.com/tappi287/rf2_video_settings#rfactor-2-settings-application"
     },
     {
-      "name": "SimMon",
+      "name": "SimMon GitHub",
       "position": "2",
       "link": "https://github.com/tappi287/simmon_gui#simmon"
     }

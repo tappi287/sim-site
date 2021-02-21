@@ -34,13 +34,20 @@
       </div>
       <div class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none" :class="signupAboutSize">
         <div class="item">
-          <div class="footer__heading xs-mb2">Deploy</div>
+          <div class="footer__heading xs-mb2">Apps</div>
 
-          <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template">
+          <a href="/page/rF2-settings-widget">
             <img
               style="height:29px;width:auto;"
-              src="~/assets/deploy.svg"
-              title="Deploy to Netlify"
+              src="/images/rfW_banner.svg"
+              title="rFactor 2 Settings Widget"
+            />
+          </a>
+          <a href="/page/simmon">
+            <img
+              style="height:29px;width:auto;"
+              src="/images/sw_banner.svg"
+              title="SimMon Application Profiler"
             />
           </a>
         </div>
