@@ -131,7 +131,20 @@ export default {
       extraLaps: 0,
       tracks: [
         {name: 'Barcelona', m: 1, s: 45, t: 150, fuel: 3.2},
-        {name: 'Brands Hatch', m: 1, s: 24, t: 250, fuel: 2.9}
+        {name: 'Brands Hatch', m: 1, s: 24, t: 250, fuel: 2.9},
+        {name: 'Hungaroring', m: 1, s: 43, t: 450, fuel: 3.2},
+        {name: 'Kyalami', m: 1, s: 38, t: 900, fuel: 3.1},
+        {name: 'Laguna Seca', m: 9, s: 99, t: 100, fuel: 3},
+        {name: 'Misano', m: 1, s: 34, t: 73, fuel: 3},
+        {name: 'Monza', m: 2, s: 6, t: 675, fuel: 3},
+        {name: 'Mount Panorama', m: 2, s: 2, t: 577, fuel: 4.8},
+        {name: 'Nürburgring', m: 1, s: 54, t: 896, fuel: 3.3},
+        {name: 'Paul Ricard', m: 1, s: 53, t: 491, fuel: 3.3},
+        {name: 'Silverstone', m: 1, s: 59, t: 642, fuel: 3.6},
+        {name: 'Spa-Francorchamps', m: 2, s: 20, t: 58, fuel: 4.2},
+        {name: 'Suzuka', m: 2, s: 1, t: 995, fuel: 3.9},
+        {name: 'Zandvoort', m: 1, s: 36, t: 11, fuel: 3.0},
+        {name: 'Zolder', m: 1, s: 30, t: 312, fuel: 2.9},
       ],
       resultDurationPresets: [60, 45, 30, 25, 20, 15, 10, 5],
     }
