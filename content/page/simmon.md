@@ -3,6 +3,7 @@ title: SimMon
 date: Friday, February 19th, 2021
 thumbnail: /images/uploads/sm_poster.webp
 category: Tools
+createdAt: 2020-02-18T17:49:25.117Z
 ---
 **Start any follow up application when the start of your Sim application is detected.**
 

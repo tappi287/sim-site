@@ -1,7 +1,7 @@
 ---
 title: Donate
 date: Saturday, February 20th, 2021
-thumbnail: /images/uploads/changelog.jpg
+createdAt: 2020-02-16T17:49:25.117Z
 ---
 
 #### App development

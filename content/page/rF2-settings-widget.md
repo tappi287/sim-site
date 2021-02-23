@@ -3,6 +3,7 @@ title: rFactor 2 Settings Widget
 date: Saturday, February 20th, 2021
 thumbnail: /images/uploads/rfW_Poster.webp
 category: Tools
+createdAt: 2020-02-19T17:49:25.117Z
 ---
 **Create presets of your rFactor 2 settings and quickly change between eg. a performance focused VR setup or an eye-candy favoured Replay setup.**
 
