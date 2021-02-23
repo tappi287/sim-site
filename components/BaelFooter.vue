@@ -54,9 +54,9 @@
       </div>
       <div class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none">
         <div class="item xs-text-6">
-          <a href="https://github.com/jake-101/bael-template">Bael</a>
-          <span class="small-txt" v-if="version">{{version}}</span>, An open source design by
-          <a href="https://jake101.com">jake101</a>
+          <a href="/page/about">SIM SITE - Attributions and Source.</a>
+          v<span class="small-txt" v-if="version">{{version}}</span> If not otherwise noticed artworks and content
+          (C) 2021 <a href="https://www.linkedin.com/in/stefan-tapper-723b6635/">Stefan Tapper</a>
         </div>
       </div>
     </div>
